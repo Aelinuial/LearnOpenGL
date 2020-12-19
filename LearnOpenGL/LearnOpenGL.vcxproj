@@ -80,8 +80,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\MyProject\Cpp\LearnOpenGL\LearnOpenGL\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\MyProject\Cpp\LearnOpenGL\LearnOpenGL\Lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Project\CPP\LearnOpenGL\LearnOpenGL\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Project\CPP\LearnOpenGL\LearnOpenGL\Lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
